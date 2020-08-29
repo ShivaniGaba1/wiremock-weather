@@ -1,0 +1,36 @@
+{
+  "coord": {
+    "lon": 10,
+    "lat": 53.55
+  },
+  "weather": [
+  {
+    "id": 520,
+    "main": "Rain",
+    "description": "light intensity shower rain",
+    "icon": "09d"
+  }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 292.32,
+    "temp_min": "ABCD",
+    "temp_max": "EFGH",
+    "humidity": 72
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 7.7,
+    "deg": 230
+  },
+  "dt": 1598195060,
+  "sys": {
+    "type": 1,
+    "id": 1263,
+    "country": "DE"
+  },
+"timezone": 7200,
+"id": 2911298,
+"name": "Hamburg",
+"cod": 200
+}
