@@ -5,7 +5,8 @@ import org.junit.Test;
 import static com.github.tomakehurst.wiremock.client.WireMock.*;
 
 public class StubWithInvalidResponse extends BaseSetup {
-
+	
+	//Scenario 2
 	@Test
 	public void stubWithInvalidResponse() {
 
