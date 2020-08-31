@@ -4,7 +4,7 @@ import static com.github.tomakehurst.wiremock.client.WireMock.*;
 
 public class StubWithDelay extends BaseSetup{
 	
-	//Scenario 2
+	//Scenario 3
 	@Test
 	public void stubWithFixedDelayedResponse() {
 
