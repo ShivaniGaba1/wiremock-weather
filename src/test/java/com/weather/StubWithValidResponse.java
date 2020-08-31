@@ -7,6 +7,7 @@ import static com.github.tomakehurst.wiremock.client.WireMock.*;
 
 public class StubWithValidResponse extends BaseSetup {
 
+	//Scenario 1
 	@Test
 	public void stubWithCurrentWeather() {
 
