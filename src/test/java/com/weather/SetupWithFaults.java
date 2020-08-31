@@ -6,7 +6,8 @@ import static com.github.tomakehurst.wiremock.client.WireMock.*;
 import static com.github.tomakehurst.wiremock.client.WireMock.aResponse;
 
 public class SetupWithFaults extends BaseSetup {
-
+    
+    //Scenario 4
     @Test
     public void stubWithFault() {
 
